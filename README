@@ -22,4 +22,4 @@ INFO
 For use encoding you must have installed iconv extension, otherwise data output in unicode
 
 HOW TO USE
-see example.php
+see example(n).php
