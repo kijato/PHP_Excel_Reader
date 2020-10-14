@@ -1,25 +1,28 @@
-INTRODUCTION
+#### INTRODUCTION
 Read data from Excel spread sheets without Microsoft!
 Provides an API to allow any application to read Excel
 documents. Written in PHP. Based on the the Java version by Andy Khan.
 
-LINKS
-
+#### LINKS
 OpenOffice.org's Documentation
 http://sc.openoffice.org/excelfileformat.pdf
 
-OLE2 Storage Documentation
+#### OLE2 Storage Documentation
 http://jakarta.apache.org/poi/poifs/fileformat.html
 
-Java API for reading, writing and modifying the contents of Excel spreadsheets
+#### Java API for reading, writing and modifying the contents of Excel spreadsheets
 http://www.andykhan.com/
 
-CONTACT
+#### CONTACT
 Vadim Tkachenko
 vt@apachephp.com
 
-INFO
+#### INFO
 For use encoding you must have installed iconv extension, otherwise data output in unicode
 
-HOW TO USE
+#### HOW TO USE
 see example(n).php
+
+#### Origin:
+(Az eredeti)[https://code.google.com/archive/p/php-excel-reader/downloads]
++ https://github.com/amade/php-excel-reader
